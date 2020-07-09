@@ -1,12 +1,12 @@
-User_ID;MCAT;Number of Leads Purchased
-A;Android POS Machine;10
-B;Scannner;3
-A;Electronic Cash Register;0
-A;Cash Registers;56
-B;Spot Billing Machine;4
-C;Bluetooth printer;1
-A;Coaxial Cables;900
-C;BNC Connectors;23
-C;AC DC Adapter ;10
-D;Power Over Ethernet;10
-D;LED Power Supply;5
+User_ID,MCAT,Number of Leads Purchased
+A,Android POS Machine,10
+B,Scannner,3
+A,Electronic Cash Register,0
+A,Cash Registers,56
+B,Spot Billing Machine,4
+C,Bluetooth printer,1
+A,Coaxial Cables,900
+C,BNC Connectors,23
+C,AC DC Adapter,10
+D,Power Over Ethernet,10
+D,LED Power Supply,5
